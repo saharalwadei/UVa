@@ -1,8 +1,7 @@
-package whatisthecard;
 
 import java.util.Scanner;
 // UVa 10646
-public class WhatIsTheCard {
+public class Main {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
